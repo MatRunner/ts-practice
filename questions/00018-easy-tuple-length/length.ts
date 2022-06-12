@@ -1,0 +1,1 @@
+type Length<A extends readonly any[]> = A['length']
